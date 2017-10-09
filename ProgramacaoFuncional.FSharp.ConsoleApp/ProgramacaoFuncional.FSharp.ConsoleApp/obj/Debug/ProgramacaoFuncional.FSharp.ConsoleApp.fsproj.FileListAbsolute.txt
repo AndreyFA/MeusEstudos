@@ -1,0 +1,11 @@
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.exe.config
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.XML
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.exe
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.pdb
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\FSharp.Core.dll
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\System.ValueTuple.dll
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\FSharp.Core.xml
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\obj\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.fsproj.CoreCompileInputs.cache
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\obj\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.exe
+D:\Repositório\MeusEstudos\ProgramacaoFuncional.FSharp.ConsoleApp\ProgramacaoFuncional.FSharp.ConsoleApp\obj\Debug\ProgramacaoFuncional.FSharp.ConsoleApp.pdb
