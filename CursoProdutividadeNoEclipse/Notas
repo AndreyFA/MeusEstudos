@@ -55,3 +55,21 @@ Alt + Shift + V : Para mover algum elemento para um lugar onde ele faça mais sen
 Alt + Shift + C : Para mudar a assinatura de um método, adicionando, removendo ou reordenando parâmetros, trocando o tipo de retorno, mudando o nome, etc.
 
 Alt + Shift + I : É o contrário do Extract Method/Variable. Para substituir uma chamada de método pelo seu corpo
+
+Ctrl + Shift + R : Localizar arquivo.
+
+Ctrl + Shift + T : Para buscar classes ou interfaces.Obs.: Pode usar .*.
+
+Ctrl + O : Para procurar um método dentro da classe.
+
+Ctrl + T em cima de uma classe ou método : Para localizar todas as subclasses e classes que as usam.
+
+Alt + Seta para Esquerda ou direita : Para avançar e voltar nas classes anteriores ou métodos anteriores alterados.
+
+Ctrl + Shift + G :  Para buscar todas as referências da classe ou método selecionado.
+
+Ctrl + F : Para buscar algum texto dentro do atual arquivo.
+
+Ctrl + J + palavra + (Ctrl + K ou Ctrl + Shift + K): Para buscar incremental e avançar nas localizações ou voltar.
+
+Ctrl + H : Buscar palavra em vários arquivos.
