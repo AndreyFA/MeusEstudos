@@ -1,0 +1,57 @@
+Anotações do curso.
+
+Ctrl + S : Para salvar modificações realizadas na classe atual.
+
+Ctrl + Shift + S : Para salvar todas modificações realizadas.
+
+Ctrl + M : Maximizar a tela de código.
+
+main + Ctrl + Espaço : sugestão de criação do método main.
+
+Ctrl + Shift + O : para resolver todos os problemas de dependências.
+
+Nome da Classe + Espaço : Sugestão de construtor.
+
+Ctrl + F11 : Para executar a classe no console.
+
+Ctrl + Page-down e Page-up ou Ctrl + F6: Para navegar entre as guias abertas.
+
+Ctrl + F3 : para acessar a variável.
+
+Ctrl + 3 : Acesso rápido e digitar o comando.
+
+Ctrl + . : Para mover o cursor até o erro mais próximo.
+
+sysout + Ctrl + Espaço : Para gerar o System.out.println.
+
+syserr + Ctrl + Espaço : Para gerar o System.err.println para exibir erros.
+
+systrace + Ctrl + Espaço : Para gerar o System.out.println para exibir o método atual.
+
+Ctrl + D : Para deletar linha atual.
+
+Ctrl + N : Para criar algo.
+
+Alt + Shift + A :  Seleção em bloco para selecionar várias linhas em forma de coluna e Shift + para baixo.
+
+Ctrl + 3 + ggas : Gerar getters e setters da classe.
+
+Ctrl + 3 + gcuf : Gerar construtor.
+
+Ctrl + Alt + para baixo ou para cima : Copiar a linha atual para baixou ou para cima.
+
+Ctrl + Shift + F : Para identar o código.
+
+Alt + Shift + R ou Ctrl + 2x R: Para renomear a classe, variável ou método.
+
+Alt + Para cima ou Para baixo : Para mover as linhas.
+
+Shift + Alt + M : Para extrair comandos para métodos.
+
+Alt + Shift + L : Para extrair uma variável a partir de alguma expressão.
+
+Alt + Shift + V : Para mover algum elemento para um lugar onde ele faça mais sentido.
+
+Alt + Shift + C : Para mudar a assinatura de um método, adicionando, removendo ou reordenando parâmetros, trocando o tipo de retorno, mudando o nome, etc.
+
+Alt + Shift + I : É o contrário do Extract Method/Variable. Para substituir uma chamada de método pelo seu corpo
