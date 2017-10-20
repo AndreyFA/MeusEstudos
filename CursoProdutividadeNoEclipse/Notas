@@ -60,7 +60,9 @@ Ctrl + Shift + R : Localizar arquivo.
 
 Ctrl + Shift + T : Para buscar classes ou interfaces.Obs.: Pode usar .*.
 
-Ctrl + O : Para procurar um método dentro da classe.
+Ctrl + O : Para exibir os métodos dentro da classe.
+
+Ctrl + 2x O : Exibir inclusive os métodos herdados de Object.
 
 Ctrl + T em cima de uma classe ou método : Para localizar todas as subclasses e classes que as usam.
 
@@ -73,3 +75,23 @@ Ctrl + F : Para buscar algum texto dentro do atual arquivo.
 Ctrl + J + palavra + (Ctrl + K ou Ctrl + Shift + K): Para buscar incremental e avançar nas localizações ou voltar.
 
 Ctrl + H : Buscar palavra em vários arquivos.
+
+F4 ou Ctrl + Shift + H : Para visualizar a hierarquia do método.
+
+Ctrl + Shift + G : Mostra todas as chamadas do método
+
+Ctrl + Alt + G : Busca a palavra em toda aplicação.
+
+Ctrl + Alt + H : No nome do método para localizar todas os métodos que utilizam esse método.
+
+Ctrl + Shift + W : Para fechar todas as guias abertas.
+
+Alt + Shift + T : Para exibir o menu Refactor do Eclipse.
+
+Ctrl + 3 + Delegate : Boa prática de programação, prefira composição ao invés de herança.
+
+Ctrl + 3 + Tasks : Para xibir todos os TODOs, FIXMEs e XXXs do código.
+
+Botão direito na classe > Compare with > Local History : Visualizar todas alterações realizadas na classe.
+
+Ctrl + F8 : Mudar de perspectiva.

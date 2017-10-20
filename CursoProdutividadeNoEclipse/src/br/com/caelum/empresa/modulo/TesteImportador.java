@@ -3,7 +3,7 @@ package br.com.caelum.empresa.modulo;
 import java.io.ByteArrayInputStream;
 import java.io.UnsupportedEncodingException;
 import java.text.ParseException;
-import java.util.List;
+import java.util.Collection;
 
 public class TesteImportador {
 	public static void main(String[] args) throws UnsupportedEncodingException, ParseException {
@@ -14,7 +14,7 @@ public class TesteImportador {
 
 	        Importador importador = new Importador();
 
-	        List<Gasto> list = importador.importa(new ByteArrayInputStream(conteudo.getBytes("UTF-8")));
+	        Collection<Gasto> list = importador.importa(new ByteArrayInputStream(conteudo.getBytes("UTF-8")));
 
 	        for (Gasto gasto : list) {
 	            System.out.println(gasto.getTipo());
