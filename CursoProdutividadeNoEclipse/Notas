@@ -95,3 +95,15 @@ Ctrl + 3 + Tasks : Para xibir todos os TODOs, FIXMEs e XXXs do código.
 Botão direito na classe > Compare with > Local History : Visualizar todas alterações realizadas na classe.
 
 Ctrl + F8 : Mudar de perspectiva.
+
+Em modo DEBUG Ctrl + R : Para avançar até a linha do cursor.
+
+Em modo DEBUG Ctrl + Shift + D : Para mostrar o valor resultante da expressão.
+
+Ctrl + 3 + Display : Habilitar a view de display.
+
+Em modo DEBUG Ctrl + Shift + D 2x com trecho de código selecionado : Para mostrar a view Display para criar qualquer expressão.
+
+F8 : Para ir até o final do DEBUG.
+
+Ctrl + F2 : Para interromper o DEBUG.
