@@ -107,3 +107,13 @@ Em modo DEBUG Ctrl + Shift + D 2x com trecho de código selecionado : Para mostra
 F8 : Para ir até o final do DEBUG.
 
 Ctrl + F2 : Para interromper o DEBUG.
+
+Ctrl + 3 + Clean UP : Indicado antes de qualquer commit, pois resolver problemas de referências, formatação, casts e indica erros.
+
+Ctrl + 3 + Save Actions :  Ações que o Eclipse realiza após cada salvamento.
+
+Ctrl + 3 + Content assist Java Editor : Para configurar o autocompletar com Ctrl.
+
+Ctrl + 3 + Keys : Para customizar atalhos do Eclipse.
+
+Ctrl + 3 + Type Filter Java/Appearance : Para colocar pacotes na exceção e não serem sugeridos no Ctrl + Espaço.
