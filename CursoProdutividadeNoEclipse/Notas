@@ -117,3 +117,5 @@ Ctrl + 3 + Content assist Java Editor : Para configurar o autocompletar com Ctrl
 Ctrl + 3 + Keys : Para customizar atalhos do Eclipse.
 
 Ctrl + 3 + Type Filter Java/Appearance : Para colocar pacotes na exceção e não serem sugeridos no Ctrl + Espaço.
+
+Ctrl + 3 + Navigator : Para ver a aplicação em estrutura de pastas.
