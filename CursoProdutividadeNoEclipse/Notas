@@ -95,3 +95,27 @@ Ctrl + 3 + Tasks : Para xibir todos os TODOs, FIXMEs e XXXs do código.
 Botão direito na classe > Compare with > Local History : Visualizar todas alterações realizadas na classe.
 
 Ctrl + F8 : Mudar de perspectiva.
+
+Em modo DEBUG Ctrl + R : Para avançar até a linha do cursor.
+
+Em modo DEBUG Ctrl + Shift + D : Para mostrar o valor resultante da expressão.
+
+Ctrl + 3 + Display : Habilitar a view de display.
+
+Em modo DEBUG Ctrl + Shift + D 2x com trecho de código selecionado : Para mostrar a view Display para criar qualquer expressão.
+
+F8 : Para ir até o final do DEBUG.
+
+Ctrl + F2 : Para interromper o DEBUG.
+
+Ctrl + 3 + Clean UP : Indicado antes de qualquer commit, pois resolver problemas de referências, formatação, casts e indica erros.
+
+Ctrl + 3 + Save Actions :  Ações que o Eclipse realiza após cada salvamento.
+
+Ctrl + 3 + Content assist Java Editor : Para configurar o autocompletar com Ctrl.
+
+Ctrl + 3 + Keys : Para customizar atalhos do Eclipse.
+
+Ctrl + 3 + Type Filter Java/Appearance : Para colocar pacotes na exceção e não serem sugeridos no Ctrl + Espaço.
+
+Ctrl + 3 + Navigator : Para ver a aplicação em estrutura de pastas.
