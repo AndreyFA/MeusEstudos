@@ -11,9 +11,9 @@ public class TestaOrdenacao {
 		
 		Random rdSaldo = new Random();
 		
-		contas.add(new ContaPoupanca(3, rdSaldo.nextFloat()));
-		contas.add(new ContaPoupanca(2, rdSaldo.nextFloat()));
-		contas.add(new ContaPoupanca(1, rdSaldo.nextFloat()));
+		contas.add(new ContaPoupanca(3, rdSaldo.nextFloat(), "A"));
+		contas.add(new ContaPoupanca(2, rdSaldo.nextFloat(), "E"));
+		contas.add(new ContaPoupanca(1, rdSaldo.nextFloat(), "C"));
 		
 		Collections.sort(contas);
 		
