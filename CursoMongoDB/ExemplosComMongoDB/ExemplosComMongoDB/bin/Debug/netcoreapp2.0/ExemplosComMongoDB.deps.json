@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ExemplosComMongoDB/1.0.0": {
+        "dependencies": {
+          "MongoDB.Bson": "2.4.4.0",
+          "MongoDB.Driver.Core": "2.4.4.0",
+          "MongoDB.Driver": "2.4.4.0"
+        },
+        "runtime": {
+          "ExemplosComMongoDB.dll": {}
+        }
+      },
+      "MongoDB.Bson/2.4.4.0": {
+        "runtime": {
+          "MongoDB.Bson.dll": {}
+        }
+      },
+      "MongoDB.Driver.Core/2.4.4.0": {
+        "runtime": {
+          "MongoDB.Driver.Core.dll": {}
+        }
+      },
+      "MongoDB.Driver/2.4.4.0": {
+        "runtime": {
+          "MongoDB.Driver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemplosComMongoDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDB.Bson/2.4.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDB.Driver.Core/2.4.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDB.Driver/2.4.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp1.1\ExemplosComMongoDB.AspNETCore.csproj.CoreCompileInputs.cache
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp1.1\ExemplosComMongoDB.AspNETCore.AssemblyInfoInputs.cache
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp1.1\ExemplosComMongoDB.AspNETCore.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\bin\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.deps.json
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\bin\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.runtimeconfig.json
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\bin\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.runtimeconfig.dev.json
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\bin\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.dll
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\bin\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.pdb
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.csproj.CoreCompileInputs.cache
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.AssemblyInfoInputs.cache
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.AssemblyInfo.cs
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.dll
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.pdb
+C:\Users\andrey.alves\Documents\CursoMongoDB\ExemplosComMongoDB\ExemplosComMongoDB\obj\Debug\netcoreapp2.0\ExemplosComMongoDB.AspNETCore.csprojResolveAssemblyReference.cache
